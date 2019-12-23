@@ -1,0 +1,32 @@
+{
+        "cmilinutsaiuat1": {
+                "login": "https://gssuts-uat-ao2:48443/baocdp/rest/login",
+                "ack": "https://gssuts-uat-ao2:48443/baocdp/rest/process/:Amdocs_Amily_Integration_Interface:Self_Service_Amily_To_UTS/execute?mode=sync",
+                "logout": "https://gssuts-uat-ao2:48443/baocdp/rest/logout"
+        },
+        "cmilinutsaiprd3": {
+                "login": "https://gssuts-ao2:28443/baocdp/rest/login",
+                "ack": "https://gssuts-ao2:28443/baocdp/rest/process/:Amdocs_Amily_Integration_Interface:Self_Service_Amily_To_UTS/execute?mode=sync",
+                "logout": "https://gssuts-ao2:28443/baocdp/rest/logout"
+        },
+        "canlinutsaiuat1": {
+                "login": "https://gssutscan-uat-aopi:48443/baocdp/rest/login",
+                "ack": "https://gssutscan-uat-aopi:48443/baocdp/rest/process/:Amdocs_Amily_Integration_Interface:Self_Service_Amily_To_UTS/execute?mode=sync",
+                "logout": "https://gssutscan-uat-aopi:48443/baocdp/rest/logout"
+        },
+        "canlinutsaiprd3": {
+                "login": "",
+                "ack": "",
+                "logout": ""
+        },
+        "illinutsaiuat1": {
+                "login": "https://gssutsisr-int-uat-ao-pi:28080/baocdp/rest/login",
+                "ack": "https://gssutsisr-int-uat-ao-pi:28080/baocdp/rest/process/:Amdocs_Amily_Integration_Interface:Self_Service_Amily_To_UTS/execute?mode=sync",
+                "logout": "https://gssutsisr-int-uat-ao-pi:28080/baocdp/rest/logout"
+        },
+        "illinutsaiprd3": {
+                "login": "https://gssutsisr-int-ao-pi:28080/baocdp/rest/login",
+                "ack": "https://gssutsisr-int-ao-pi:28080/baocdp/rest/process/:Amdocs_Amily_Integration_Interface:Self_Service_Amily_To_UTS/execute?mode=sync",
+                "logout": "https://gssutsisr-int-ao-pi:28080/baocdp/rest/logout"
+        }
+}

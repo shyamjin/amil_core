@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# This is the Linux service start/stop script for thr Amily web service
+# When triggered using the 'service' command, the amily env is not loaded.
+# So, we will load it by 'sudo'ing into the Amily user
+
+sudo -u $(id -un) -i /prjvl01/amilyvp/Amily_Prod/amilyws.sh ${@}

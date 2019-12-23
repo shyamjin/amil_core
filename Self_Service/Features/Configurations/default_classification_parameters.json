@@ -1,0 +1,528 @@
+[
+	{
+		"account": "Globe_Telecom",
+		"default_parameters_ext": 
+		{
+			"union__transformer_weights":
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		},
+		"default_parameters_int": 
+		{
+			"union__transformer_weights": 
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [200]
+		}
+	},
+	{
+		"account": "Sprint_Nextel_Corporation",
+		"default_parameters_ext": 
+		{
+			"union__transformer_weights":
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		},
+		"default_parameters_int": 
+		{
+			"union__transformer_weights": 
+			[
+			{"textual_field_1": 0.9, "textual_field_2": 0.1}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		}
+	},
+	{
+		"account": "XL_Axiata",
+		"default_parameters_ext": 
+		{
+			"union__transformer_weights":
+			[
+			{"textual_field_1": 0.6, "textual_field_2": 0.4}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		},
+		"default_parameters_int": 
+		{
+			"union__transformer_weights": 
+			[
+			{"textual_field_1": 0.6, "textual_field_2": 0.4}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		}
+	},
+	{
+		"account": "Cricket",
+		"default_parameters_ext": 
+		{
+			"union__transformer_weights":
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [250]
+		},
+		"default_parameters_int": 
+		{
+			"union__transformer_weights": 
+			[
+			{"textual_field_1": 0.6, "textual_field_2": 0.4}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		}
+	},
+	{
+		"account": "US_Cellular_Corporation",
+		"default_parameters_ext": 
+		{
+			"union__transformer_weights":
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		},
+		"default_parameters_int": 
+		{
+			"union__transformer_weights": 
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		}
+	},
+	{
+		"account": "Airtel_India",
+		"default_parameters_ext": 
+		{
+			"union__transformer_weights":
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		},
+		"default_parameters_int": 
+		{
+			"union__transformer_weights": 
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		}
+	},
+	{
+		"account": "MetroPCS_Communications,_Inc.",
+		"default_parameters_ext": 
+		{
+			"union__transformer_weights":
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		},
+		"default_parameters_int": 
+		{
+			"union__transformer_weights": 
+			[
+			{"textual_field_1": 0.5, "textual_field_2": 0.5}
+			],
+			"selector__percentile": [20],
+			"randforest__n_estimators": [100]
+		}
+	},
+	{
+                "account": "IMIS_Testing_Inc.",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+	{
+                "account": "Astro_Malaysia",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+	{
+                "account": "Amdocs_IT",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+		{
+                "account": "Amdocs_HR",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+		{
+                "account": "Amdocs DExYP",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+		{
+                "account": "TSA_POC",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+		{
+                "account": "Astro_Malaysia",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+		{
+                "account": "Telefonica_Argentina",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+		{
+                "account": "Telefonica_Peru",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+		{
+                "account": "Elisa",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+		{
+                "account": "Amdocs_BTG_IT_SNOW",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+        {
+                "account": "PLDT_Company",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+        {
+                "account": "NXT",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+        {
+                "account": "VIVO",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+        {
+                "account": "ATT",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+        {
+                "account": "EEBT",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+        {
+                "account": "Comcast_Cable_Communications",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        },
+        {
+                "account": "ATT_Consumer",
+                "default_parameters_ext":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                },
+                "default_parameters_int":
+                {
+                        "union__transformer_weights":
+                        [
+                        {"textual_field_1": 0.5, "textual_field_2": 0.5}
+                        ],
+                        "selector__percentile": [20],
+                        "randforest__n_estimators": [100]
+                }
+        }
+		
+]
